@@ -1,4 +1,4 @@
-%% CLIME experiment
+%% Dantzig Selector experiment
 clear;
 clc; 
 close all;
