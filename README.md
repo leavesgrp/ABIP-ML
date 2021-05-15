@@ -14,7 +14,7 @@ This package uses the ABIP algorithm to solve linear programs. We provide exampl
 
 Before using it, add `abip` to you MATLAB path. Here we use string variable `ABIP_HOME` to denote the path where you download the package.
 ```
-addpath(ABIP_HOME+'/abip-machine-learning/abip')
+addpath(ABIP_HOME+'/abip')
 ```
 ### General LP
 We solve general linear programs in the following standard form:
